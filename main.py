@@ -99,7 +99,11 @@ class Pong_Ball():#Creating Ball
           pygame.display.flip()
   
       # Close everything down
-      pygame.quit()
-    if __name__ == "__main__":
-      main()
+
+
+pygame.quit()
+if __name__ == "__main__":
+  main()
     
+running = True
+while running: 
