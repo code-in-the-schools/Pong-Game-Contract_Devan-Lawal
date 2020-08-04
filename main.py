@@ -107,3 +107,4 @@ if __name__ == "__main__":
     
 running = True
 while running: 
+  if Pong_Paddle() 
